@@ -1,0 +1,8 @@
+{
+  "logs_dir_nginx": "./data/logs/nginx",
+  "out_json_nginx": "./data/logs/nginx/nginx_log_entries.json",
+  "logs_dir_auth": "./data/logs/auth",
+  "out_json_auth": "./data/logs/auth/auth_log_entries.json",
+  "country_mmdb_file": "./data/country.mmdb",
+  "combine_gz": true
+}

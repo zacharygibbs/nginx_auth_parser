@@ -1,0 +1,12 @@
+[package]
+name = "nginx_parser"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+maxminddb = "0.24.0"
+serde = "1.0.217"
+regex = "1.11.1"
+serde_json = "1.0.135"
+flate2 = "1.0.35"
+chrono = { version = "0.4.39", features = ["serde"] }
